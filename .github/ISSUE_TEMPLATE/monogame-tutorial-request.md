@@ -17,4 +17,4 @@ projects: ["SimonDarksideJ/1"]
 <!--A good description of things you have trouble with or have questions about.-->
 
 **Additional context**
-<!--Add any other context or screenshots about the tutorialrequest here.-->
+<!--Add any other context or screenshots about the tutorial/request here.-->
