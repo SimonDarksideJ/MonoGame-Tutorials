@@ -4,7 +4,7 @@ about: A new content request or report for a MonoGame tutorial
 title: ''
 labels: ''
 assignees: ''
-projects: ["SimonDarksideJ/projects/1"]
+projects: ["SimonDarksideJ/1"]
 ---
 
 ## What is the topic of this tutorial
